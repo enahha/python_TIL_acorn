@@ -1,0 +1,7 @@
+numpy 설치
+_ 터미널에서 pip install numpy 하여 설치 함
+
+pandas 설치
+_ pip install pandas
+
+*** 가상환경마다 설치 해야 할 껄? ***
