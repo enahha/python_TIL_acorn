@@ -18,7 +18,7 @@ msg = '''
 cherry 제리톰 cherry 목요일 leurto  adsf 가을 cherry 토요일  sldj
 일요일 sld 제리 jfldf 목요일일 leurto  adslfj
 목요일 789 ldfjlqwewtry upu fdgjld
-cherry 일요일 sld cherry jfldf 목요일 leurto  adslfj 
+cherry 일요일 sld cherry jfldf 목요일 leurto  adslfj 목요일 목요일 목요일 목요일
 weoruwoeru  weoripti cherry
 qazx 제리토 가을 koetiet 9734 234 목요일 톰 제리톰 adslfj cherry 가을
 bc  토요일 하늘 lsdjlfjp 월요일 eirp cherry 토요일 weoripti
